@@ -1,0 +1,3 @@
+font-family: 'Anybody', cursive;
+font-family: 'Bebas Neue', cursive;
+font-family: 'Permanent Marker', cursive;
